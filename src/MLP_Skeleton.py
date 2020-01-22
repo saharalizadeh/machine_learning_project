@@ -1,13 +1,7 @@
-"""
-INSERT YOUR NAME HERE
-"""
-
-
 from __future__ import division
 from __future__ import print_function
 
 import sys
-
 import cPickle
 import numpy as np
 
